@@ -1,1 +1,2 @@
-init
+- save the index of the iterated number to the hash table so you can get it index as O(1)
+- hash table tutorial: https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/
