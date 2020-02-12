@@ -1,0 +1,1 @@
+another way is to go reversely and substract if current is smaller than last
