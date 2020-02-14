@@ -1,0 +1,1 @@
+del a[i] to remove element from list with its index
