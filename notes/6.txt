@@ -1,0 +1,4 @@
+- Slide i,j with j increase 1 regularly
+- if s[j] is a duplicate, mean that character is in [i,j], find the index
+- Step i to this index
+- Check at each step ans = max(ans, j - i + 1)
