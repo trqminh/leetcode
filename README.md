@@ -12,5 +12,8 @@ a day a problem aim not to forget how to code
 |  7  | Longest palindromic substring| Medium | [Q](https://leetcode.com/problems/longest-palindromic-substring/solution/) | [A](/solutions/7.py) | [N](notes/7.txt) |
 |  8  | 3Sum | Medium | [Q](https://leetcode.com/problems/3sum/) | [A](/solutions/8.py) | [N](notes/8.txt) |
 |  9  | Remove Element | Easy | [Q](https://leetcode.com/problems/remove-element/) | [A](/solutions/9.py) | [N](notes/9.txt) |
+| 10  | Valid Parentheses | Easy | [Q](https://leetcode.com/problems/valid-parentheses/) | [A](/solutions/10.py) | [N](notes/10.txt) |
+
+
 \* indicates that I can solve the problem optimally
 
