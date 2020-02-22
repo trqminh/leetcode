@@ -14,6 +14,7 @@ a day a problem aim not to forget how to code
 |  9  | Remove Element | Easy | [Q](https://leetcode.com/problems/remove-element/) | [A](/solutions/9.py) | [N](notes/9.txt) |
 | 10  | Valid Parentheses | Easy | [Q](https://leetcode.com/problems/valid-parentheses/) | [A](/solutions/10.py) | [N](notes/10.txt) |
 | 11  | Nản quá không làm nữa | Easy | [Q](https://leetcode.com/problems/merge-two-sorted-lists/) | [A](/solutions/11.py) | [N](notes/11.txt) |
+| 12  | Search in Rotated Sorted Array | Medium | [Q](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [A](/solutions/12.py) | [N](notes/12.txt) |
 
 \* indicates that I can solve the problem optimally
 

@@ -1,0 +1,6 @@
+- Rotate bao nhiêu lần thì vẫn được 1 mảng luôn chỉ có tối đa 2 phần đã được sắp xếp
+- Vì vậy khi chia nửa mảng thì sẽ luôn tồn tại 1 bên đã được sắp xếp
+- Với 1 mảng đã được sắp xếp thì luôn xác định được rằng 1 số có nằm trong đó hay không với O(1) (tiền đề của binary search)
+- Nếu nó không nằm trong đó thì nó sẽ nằm trong phần còn lại, phần còn lại này lại cũng có tối đa 2 phần được sắp xếp
+- Và cứ thế
+
