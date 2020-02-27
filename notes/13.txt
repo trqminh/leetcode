@@ -1,0 +1,2 @@
+- tại sao hi = len(nums) mà không phải len(nums) - 1 ?? một câu hỏi không hay
+- 
