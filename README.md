@@ -17,6 +17,7 @@ a day a problem aim not to forget how to code
 | 12  | Search in Rotated Sorted Array | Medium | [Q](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [A](/solutions/12.py) | [N](notes/12.txt) |
 | 13  | Find first and last | Medium | [Q](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [A](/solutions/13.py) | [N](notes/13.txt) |
 | 14  | Container with most water | Medium | [Q](https://leetcode.com/problems/container-with-most-water/) | [A](/solutions/14.py) | [N](notes/14.txt) |
+| 15  | Maximum subarray | Easy | [Q](https://leetcode.com/problems/maximum-subarray/) | [A](/solutions/15.py) | [N](notes/15.txt) |
 
 \* indicates that I can solve the problem optimally
 
