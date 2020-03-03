@@ -1,0 +1,3 @@
+- Đi tìm upper bound
+- Nếu upper bound - 1 là target thì trả về upper bound - 1
+- không thì trả về upper bound
