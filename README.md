@@ -19,6 +19,7 @@ a day a problem aim not to forget how to code
 | 14  | Container with most water | Medium | [Q](https://leetcode.com/problems/container-with-most-water/) | [A](/solutions/14.py) | [N](notes/14.txt) |
 | 15  | Maximum subarray | Easy | [Q](https://leetcode.com/problems/maximum-subarray/) | [A](/solutions/15.py) | [N](notes/15.txt) |
 | 16  | Search Insert Position | Easy | [Q](https://leetcode.com/problems/search-insert-position/) | [A](/solutions/16.py) | [N](notes/16.txt) |
+| 17  | Course Schedule | Medium | [Q](https://leetcode.com/problems/course-schedule/) | [A](/solutions/17.py) | [N](notes/17.txt) |
 
 \* indicates that I can solve the problem optimally
 
