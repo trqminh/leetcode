@@ -1,13 +1,16 @@
 class Solution(object):
-    def iscycle(pre_dict, index, target):
-        if len(pre_dict[index]) <= 0:
+    def iscycle(self, pre_dict, index, target):
+        if index not in pre_dict.keys() or len(pre_dict[index]) <= 0:
             return False
 
         if target in pre_dict[index]:
             return True
 
-        for course in pre_dict[target]:
-            if iscycle(pre_dict, )
+        for course in pre_dict[index]:
+            if self.iscycle(pre_dict, course, target):
+                return True
+
+        return False
 
 
     def canFinish(self, numCourses, prerequisites):

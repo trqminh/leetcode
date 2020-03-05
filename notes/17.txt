@@ -1,1 +1,1 @@
-.
+- kiểm tra có vòng hay không.

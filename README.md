@@ -20,6 +20,7 @@ a day a problem aim not to forget how to code
 | 15  | Maximum subarray | Easy | [Q](https://leetcode.com/problems/maximum-subarray/) | [A](/solutions/15.py) | [N](notes/15.txt) |
 | 16  | Search Insert Position | Easy | [Q](https://leetcode.com/problems/search-insert-position/) | [A](/solutions/16.py) | [N](notes/16.txt) |
 | 17  | Course Schedule | Medium | [Q](https://leetcode.com/problems/course-schedule/) | [A](/solutions/17.py) | [N](notes/17.txt) |
+| 18  | Largest Number | Medium | [Q](https://leetcode.com/problems/largest-number/) | [A](/solutions/18.py) | [N](notes/18.txt) |
 
 \* indicates that I can solve the problem optimally
 
