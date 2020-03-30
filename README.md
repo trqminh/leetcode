@@ -21,7 +21,9 @@ a day a problem aim not to forget how to code
 | 16  | Search Insert Position | Easy | [Q](https://leetcode.com/problems/search-insert-position/) | [A](/solutions/16.py) | [N](notes/16.txt) |
 | 17  | Course Schedule | Medium | [Q](https://leetcode.com/problems/course-schedule/) | [A](/solutions/17.py) | [N](notes/17.txt) |
 | 18  | Largest Number | Medium | [Q](https://leetcode.com/problems/largest-number/) | [A](/solutions/18.py) | [N](notes/18.txt) |
+| 19  | Find Peak | Medium | [Q](https://leetcode.com/problems/find-peak-element/) | [A](/solutions/19.py) | [N](notes/19.txt) |
 
 \* indicates that I can solve the problem optimally
+
 
 
