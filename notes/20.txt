@@ -1,0 +1,1 @@
+- đây là những bài mà cách làm sẽ là đi tìm 1 thành phần nào đó trong mảng
