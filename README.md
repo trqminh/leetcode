@@ -23,6 +23,7 @@ a day a problem aim not to forget how to code
 | 18  | Largest Number | Medium | [Q](https://leetcode.com/problems/largest-number/) | [A](/solutions/18.py) | [N](notes/18.txt) |
 | 19  | Find Peak | Medium | [Q](https://leetcode.com/problems/find-peak-element/) | [A](/solutions/19.py) | [N](notes/19.txt) |
 | 20  | Find Minimum in Rotated Sorted Array | Medium | [Q](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [A](/solutions/20.py) | [N](notes/20.txt) |
+| 21  | Single Number | Easy | [Q](https://leetcode.com/problems/single-number/) | [A](/solutions/21.py) | [N](notes/21.txt) |
 
 \* indicates that I can solve the problem optimally
 
