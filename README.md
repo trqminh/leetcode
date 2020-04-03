@@ -25,6 +25,7 @@ a day a problem aim not to forget how to code
 | 20  | Find Minimum in Rotated Sorted Array | Medium | [Q](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [A](/solutions/20.py) | [N](notes/20.txt) |
 | 21  | Single Number | Easy | [Q](https://leetcode.com/problems/single-number/) | [A](/solutions/21.py) | [N](notes/21.txt) |
 | 22  | Find Minimum in Rotated Sorted Array II | Medium | [Q](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [A](/solutions/22.py) | [N](notes/22.txt) |
+| 23  | Search in Rotated Sorted Array II | Medium | [Q](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [A](/solutions/23.py) | [N](notes/23.txt) |
 
 \* indicates that I can solve the problem optimally
 
