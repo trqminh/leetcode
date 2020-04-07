@@ -1,1 +1,1 @@
-- giá trị h-index của 1 dãy các bài báo được sắp xếp theo thứ tự tăng dần h-index chính là khoảng cách từ bài có giá trị nhỏ nhất lớn hơn h-index cho đến cuối, khi đó có thể áp dụng binary search
+- giá trị h-index của 1 dãy các bài báo được sắp xếp theo thứ tự tăng dần h-index chính là khoảng cách từ bài có giá trị nhỏ nhất lớn hơn h-index cho đến cuối, khi đó có thể áp dụng binary search.
