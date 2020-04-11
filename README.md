@@ -33,5 +33,6 @@ a day a problem aim not to forget how to code
 | 28  | Search a 2D Matrix II | Medium | [Q](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [A](/solutions/28.py) | [N](notes/28.txt) |
 | 29  | Longest Increasing Subsequence | Medium | [Q](https://leetcode.com/problems/longest-increasing-subsequence/) | [A1](/solutions/29.py) | [N1](notes/29.txt) |
 | 30  | Longest Increasing Subsequence | Medium | [Q](https://leetcode.com/problems/longest-increasing-subsequence/) | [A2](/solutions/30.py) | [N2](notes/30.txt) |
+| 31  | Maximum Length of Repeated Subarray | Medium | [Q](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [A1](/solutions/31.py) | [N](notes/31.txt) |
 
 \* indicates that I can solve the problem optimally
