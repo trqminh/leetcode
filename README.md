@@ -35,5 +35,6 @@ a day a problem aim not to forget how to code
 | 30  | Longest Increasing Subsequence | Medium | [Q](https://leetcode.com/problems/longest-increasing-subsequence/) | [A2](/solutions/30.py) | [N2](notes/30.txt) |
 | 31  | Diameter of Binary Tree | Medium | [Q](https://leetcode.com/problems/diameter-of-binary-tree/) | [A](/solutions/31.py) | [N](notes/31.txt) |
 | 32  | Maximum Length of Repeated Subarray | Medium | [Q](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [A](/solutions/32.py) | [N](notes/32.txt) |
+| 33  | Intersection of Two Arrays | Easy | [Q](https://leetcode.com/problems/intersection-of-two-arrays/) | [A](/solutions/33.py) | [N](notes/33.txt) |
 
 \* indicates that I can solve the problem optimally
