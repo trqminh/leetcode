@@ -37,5 +37,6 @@ a day a problem aim not to forget how to code
 | 32  | Maximum Length of Repeated Subarray | Medium | [Q](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [A](/solutions/32.py) | [N](notes/32.txt) |
 | 33  | Intersection of Two Arrays | Easy | [Q](https://leetcode.com/problems/intersection-of-two-arrays/) | [A](/solutions/33.py) | [N](notes/33.txt) |
 | 34  | Arranging Coin | Easy | [Q](https://leetcode.com/problems/arranging-coins/) | [A](/solutions/34.py) | [N](notes/34.txt) |
+| 35  | Sort Colors | Medium | [Q](https://leetcode.com/problems/sort-colors/) | [A](/solutions/35.py) | [N](notes/35.txt) |
 
 \* indicates that I can solve the problem optimally
